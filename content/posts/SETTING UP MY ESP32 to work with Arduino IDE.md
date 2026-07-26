@@ -13,7 +13,7 @@ I got the ESP-WROOM-32 ESP32 ESP-32S Development Board 2.4GHz Dual-Mode WiFi + B
 
 In arduino IDE, open File > additional boards manager URLs:
 
-![Screenshot](/0217c0524bcb20142764c68c09cb5aad.png)
+![Screenshot](./static/0217c0524bcb20142764c68c09cb5aad.png)
 
 Copy and paste these URLs in the text box and click ok
 
