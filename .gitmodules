@@ -1,0 +1,6 @@
+[submodule "themes/themes/ezhil"]
+	path = themes/themes/ezhil
+	url = https://github.com/vividvilla/ezhil.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git

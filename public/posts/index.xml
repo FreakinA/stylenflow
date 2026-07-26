@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stylenflow</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Stylenflow</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SETTING UP MY ESP32 to work with Arduino IDE</title>
+      <link>http://localhost:1313/posts/setting-up-my-esp32-to-work-with-arduino-ide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/setting-up-my-esp32-to-work-with-arduino-ide/</guid>
+      <description>&lt;p&gt;What ESP32 board did you buy?&lt;/p&gt;&#xA;&lt;p&gt;I got the ESP-WROOM-32 ESP32 ESP-32S Development Board 2.4GHz Dual-Mode WiFi + Bluetooth Dual Cores Microcontroller Processor Integrated with Antenna RF AMP Filter AP STA Compatible with Arduino IDE&lt;/p&gt;&#xA;&lt;p&gt;In arduino IDE, open File &amp;gt; additional boards manager URLs:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/0217c0524bcb20142764c68c09cb5aad.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Copy and paste these URLs in the text box and click ok&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;https://dl.espressif.com/dl/package_esp32_index.json&lt;/code&gt;&#xA;&lt;code&gt;https://espressif.github.io/arduino-esp32/package_esp32_index.json&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Download UART drivers from this website ; &lt;a href=&#34;https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=overview&#34;&gt;Serial UART Drivers&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Compile the sample code i&amp;rsquo;ve included below.&#xA;Select the COM port that looks like its connected to the ESP32&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
